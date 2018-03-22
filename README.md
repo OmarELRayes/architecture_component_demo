@@ -10,6 +10,9 @@ this app simply have a recycler view which gets its data from "Room" DataBase
 # Libraries and Architecture 
 
 Architecture Pattern : MVVM (Model View View-Model)
+
 Design Patterns : Singleton , Factory
+
 View Injection : ButterKnife
+
 Android Architecture Components : Room , LiveData , ViewModel
